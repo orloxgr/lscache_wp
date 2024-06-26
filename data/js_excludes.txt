@@ -28,3 +28,10 @@ wp-json/wp-statistics ## WP Statistics
 stats.wp.com/e-
 _stq
 ## JetPack Stats
+
+#Burst Statistics
+
+burst.min.js
+burst-cookieless.min.js
+timeme.min.js
+burst-goals.min.js
